@@ -10,7 +10,7 @@ import java.io.IOException;
 
 import static org.junit.Assert.assertEquals;
 
-public class GetHellowWorldTest
+public class GetHelloWorldTest
 {
     @Rule
     public PactRule rule = new PactRule(Configuration.MOCK_HOST, Configuration.MOCK_HOST_PORT, this);
