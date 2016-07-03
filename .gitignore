@@ -1,0 +1,10 @@
+*.class
+*.jar
+*.war
+*.ear
+build
+target
+*.iml
+.DS_STORE
+.gradle
+.idea
