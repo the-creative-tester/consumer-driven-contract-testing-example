@@ -1,1 +1,1 @@
-http://the-creative-tester.github.io/Python-Android-Mobile-Web-Automation/
+http://the-creative-tester.github.io/Java-Consumer-Driven-Contract-Testing/
